@@ -33,10 +33,6 @@ MySQL: Database management for storing and processing data.
 
 To run the SQL queries locally, follow these steps:
 
-**Clone this repository:**
-
-git clone https://github.com/MrYogeshKushwaha/pizza-sales-analysis.git
-
 **Import the database into your SQL environment**:
 
 Create a new database.
