@@ -1,0 +1,12 @@
+Here’s a list of all the questions analyzed in the project:  
+
+1. Determine the busiest hour for pizza orders.  
+2. Join the necessary tables to find the total quantity of each pizza category ordered.  
+3. List the top 3 most frequently ordered pizza types by quantity.  
+4. Identify the least ordered pizza size.  
+5. Identify the most profitable pizza type based on total revenue.  
+6. Calculate the monthly trend of pizza sales.  
+7. Analyze the top pizza categories by revenue.  
+8. List pizza sizes by category that generated more than $10,000 in revenue.  
+9. Predict peak hours for pizza orders using past data.  
+10. Analyze the top 5 most expensive pizzas and the correlation between pizza price and order volume.  
